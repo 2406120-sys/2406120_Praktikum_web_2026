@@ -11,12 +11,13 @@
 - Konfigurasi identitas Git global.
 
 ### Spesipikasi perangkat
-|komponen|spesifikasi     |
-|Device DESKTOP-1L67CUA   |
-|-------------------------|
-|RAM	|4,00 GB          |
-|Storage|64 GB            |
-|Node.js|v14.21.0         |
-|npm    |11.19.0          |
+|komponen|spesifikasi|
+|:-----------:|:----------:|
+|Device |DESKTOP-1L67CUA|
+|RAM	|4,00 GB|
+|CPU|Intel core i3|
+|Storage|64 GB|
+|Node.js|v14.21.0|
+|npm    |11.19.0|
 |git    |2.56.0. windows.1|
 
